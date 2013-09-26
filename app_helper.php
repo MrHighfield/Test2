@@ -1,7 +1,7 @@
 <?php
 /* SVN FILE: $Id$ */
 /**
- * Short description for file.
+ * Short dghjfgjfgjfjgjgjfgjescription for file.
  *
  * This file is application-wide helper file. You can put all
  * application-wide helper-related methods here.
